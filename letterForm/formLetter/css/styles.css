@@ -1,0 +1,33 @@
+#letterText {
+    display: none;
+    margin-left: 5%;
+    border: 5px dashed red;
+    width: 800px;
+    height: 620px;
+}
+
+#letterText h1 {
+    margin: 20px;
+}
+
+#letterText img {
+    margin-bottom: 12px;
+}
+
+#letterText p {
+    font-size: 20px;
+    text-decoration: underline;
+    padding-top: 50px;
+    margin-left: 100px;
+}
+
+#letterBorder {
+    border: 5px dashed blue;
+}
+
+#stamp {
+    float: right;
+    width: 150px;
+    padding-top: 20px;
+    padding-right: 20px;
+}
